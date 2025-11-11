@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shrestha2510/dsa-problems-java/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/shrestha2510/dsa-problems-java/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shrestha2510/dsa-problems-java/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shrestha2510/dsa-problems-java/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
@@ -23,5 +24,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shrestha2510/dsa-problems-java/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shrestha2510/dsa-problems-java/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shrestha2510/dsa-problems-java/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
