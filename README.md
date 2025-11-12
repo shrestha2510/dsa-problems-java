@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/shrestha2510/dsa-problems-java/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/shrestha2510/dsa-problems-java/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shrestha2510/dsa-problems-java/tree/master/0073-set-matrix-zeroes) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/shrestha2510/dsa-problems-java/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/shrestha2510/dsa-problems-java/tree/master/0125-valid-palindrome) |
 ## Hash Table
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shrestha2510/dsa-problems-java/tree/master/0125-valid-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
