@@ -1,4 +1,5 @@
 class Solution {
+    //  O(n log n)
     public int[] sortedSquares(int[] nums) {
         for(int i=0;i<nums.length;i++){
             nums[i] = Math.abs(nums[i]);
