@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shrestha2510/dsa-problems-java/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shrestha2510/dsa-problems-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shrestha2510/dsa-problems-java/tree/master/0162-find-peak-element) |
+| [0283-move-zeroes](https://github.com/shrestha2510/dsa-problems-java/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shrestha2510/dsa-problems-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shrestha2510/dsa-problems-java/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/shrestha2510/dsa-problems-java/tree/master/0792-binary-search) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/shrestha2510/dsa-problems-java/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/shrestha2510/dsa-problems-java/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/shrestha2510/dsa-problems-java/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
