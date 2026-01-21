@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shrestha2510/dsa-problems-java/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shrestha2510/dsa-problems-java/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/shrestha2510/dsa-problems-java/tree/master/0060-permutation-sequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shrestha2510/dsa-problems-java/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/shrestha2510/dsa-problems-java/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
