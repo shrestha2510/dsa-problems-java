@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/shrestha2510/dsa-problems-java/tree/master/0792-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/shrestha2510/dsa-problems-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shrestha2510/dsa-problems-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1480-running-sum-of-1d-array](https://github.com/shrestha2510/dsa-problems-java/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shrestha2510/dsa-problems-java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shrestha2510/dsa-problems-java/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shrestha2510/dsa-problems-java/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/shrestha2510/dsa-problems-java/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
 | ------- |
