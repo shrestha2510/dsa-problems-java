@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/shrestha2510/dsa-problems-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shrestha2510/dsa-problems-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shrestha2510/dsa-problems-java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/shrestha2510/dsa-problems-java/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/shrestha2510/dsa-problems-java/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shrestha2510/dsa-problems-java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shrestha2510/dsa-problems-java/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/shrestha2510/dsa-problems-java/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shrestha2510/dsa-problems-java/tree/master/1248-count-number-of-nice-subarrays) |
 ## Union Find
 |  |
 | ------- |
@@ -69,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shrestha2510/dsa-problems-java/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shrestha2510/dsa-problems-java/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/shrestha2510/dsa-problems-java/tree/master/0060-permutation-sequence) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shrestha2510/dsa-problems-java/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shrestha2510/dsa-problems-java/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/shrestha2510/dsa-problems-java/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shrestha2510/dsa-problems-java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/shrestha2510/dsa-problems-java/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/shrestha2510/dsa-problems-java/tree/master/1480-running-sum-of-1d-array) |
 ## String
@@ -130,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shrestha2510/dsa-problems-java/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
