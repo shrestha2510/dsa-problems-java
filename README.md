@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/shrestha2510/dsa-problems-java/tree/master/0303-range-sum-query-immutable) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shrestha2510/dsa-problems-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shrestha2510/dsa-problems-java/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/shrestha2510/dsa-problems-java/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/shrestha2510/dsa-problems-java/tree/master/0792-binary-search) |
 | [0930-binary-subarrays-with-sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/shrestha2510/dsa-problems-java/tree/master/0977-squares-of-a-sorted-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shrestha2510/dsa-problems-java/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shrestha2510/dsa-problems-java/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
