@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shrestha2510/dsa-problems-java/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrestha2510/dsa-problems-java/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/shrestha2510/dsa-problems-java/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/shrestha2510/dsa-problems-java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0930-binary-subarrays-with-sum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shrestha2510/dsa-problems-java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrestha2510/dsa-problems-java/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shrestha2510/dsa-problems-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrestha2510/dsa-problems-java/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/shrestha2510/dsa-problems-java/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/shrestha2510/dsa-problems-java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0930-binary-subarrays-with-sum) |
