@@ -4,8 +4,8 @@ class Solution {
         int left = 0, right = 0;
 
         for (int w : weights) {
-            left = Math.max(left, w); // at least heaviest weight
-            right += w;               // at most sum of all
+            left = Math.max(left, w); 
+            right += w;               
         }
 
         int ans = right;
@@ -14,10 +14,10 @@ class Solution {
             int mid = left + (right - left) / 2;
 
             if (canShip(weights, days, mid)) {
-                ans = mid;        // possible answer, try smaller
+                ans = mid;        
                 right = mid - 1;
             } else {
-                left = mid + 1;    // capacity too small
+                left = mid + 1;   
             }
         }
         return ans;
@@ -28,13 +28,13 @@ class Solution {
 
         for (int w : weights) {
             if (currentLoad + w > capacity) {
-                requiredDays++;    // ship next day
+                requiredDays++;    
                 currentLoad = w;
             } else {
                 currentLoad += w;
             }
 
-            if (requiredDays > days) return false; // too many days
+            if (requiredDays > days) return false; 
         }
         return true;
     }
