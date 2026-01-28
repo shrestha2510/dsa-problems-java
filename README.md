@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shrestha2510/dsa-problems-java/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shrestha2510/dsa-problems-java/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -198,4 +199,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
