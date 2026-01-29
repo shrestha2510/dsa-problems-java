@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shrestha2510/dsa-problems-java/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shrestha2510/dsa-problems-java/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/shrestha2510/dsa-problems-java/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrestha2510/dsa-problems-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shrestha2510/dsa-problems-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shrestha2510/dsa-problems-java/tree/master/0287-find-the-duplicate-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrestha2510/dsa-problems-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/shrestha2510/dsa-problems-java/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shrestha2510/dsa-problems-java/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrestha2510/dsa-problems-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0142-linked-list-cycle-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/shrestha2510/dsa-problems-java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0237-delete-node-in-a-linked-list) |
