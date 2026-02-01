@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shrestha2510/dsa-problems-java/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/shrestha2510/dsa-problems-java/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/shrestha2510/dsa-problems-java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0206-reverse-linked-list) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shrestha2510/dsa-problems-java/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0142-linked-list-cycle-ii) |
