@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shrestha2510/dsa-problems-java/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/shrestha2510/dsa-problems-java/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shrestha2510/dsa-problems-java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/shrestha2510/dsa-problems-java/tree/master/0224-basic-calculator) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shrestha2510/dsa-problems-java/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shrestha2510/dsa-problems-java/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/shrestha2510/dsa-problems-java/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shrestha2510/dsa-problems-java/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/shrestha2510/dsa-problems-java/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrestha2510/dsa-problems-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/shrestha2510/dsa-problems-java/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/shrestha2510/dsa-problems-java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/shrestha2510/dsa-problems-java/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shrestha2510/dsa-problems-java/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shrestha2510/dsa-problems-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shrestha2510/dsa-problems-java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/shrestha2510/dsa-problems-java/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/shrestha2510/dsa-problems-java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shrestha2510/dsa-problems-java/tree/master/0496-next-greater-element-i) |
