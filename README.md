@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shrestha2510/dsa-problems-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shrestha2510/dsa-problems-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shrestha2510/dsa-problems-java/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shrestha2510/dsa-problems-java/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
