@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/shrestha2510/dsa-problems-java/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/shrestha2510/dsa-problems-java/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/shrestha2510/dsa-problems-java/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/shrestha2510/dsa-problems-java/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/shrestha2510/dsa-problems-java/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shrestha2510/dsa-problems-java/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/shrestha2510/dsa-problems-java/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -270,4 +272,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/shrestha2510/dsa-problems-java/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/shrestha2510/dsa-problems-java/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
