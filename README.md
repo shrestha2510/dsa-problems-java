@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrestha2510/dsa-problems-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/shrestha2510/dsa-problems-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shrestha2510/dsa-problems-java/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/shrestha2510/dsa-problems-java/tree/master/0303-range-sum-query-immutable) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrestha2510/dsa-problems-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrestha2510/dsa-problems-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0567-permutation-in-string) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/shrestha2510/dsa-problems-java/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/shrestha2510/dsa-problems-java/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/shrestha2510/dsa-problems-java/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shrestha2510/dsa-problems-java/tree/master/0918-maximum-sum-circular-subarray) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shrestha2510/dsa-problems-java/tree/master/0918-maximum-sum-circular-subarray) |
 ## Linked List
 |  |
@@ -288,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shrestha2510/dsa-problems-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
