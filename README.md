@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/shrestha2510/dsa-problems-java/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/shrestha2510/dsa-problems-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/shrestha2510/dsa-problems-java/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shrestha2510/dsa-problems-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shrestha2510/dsa-problems-java/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/shrestha2510/dsa-problems-java/tree/master/0622-design-circular-queue) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shrestha2510/dsa-problems-java/tree/master/0016-3sum-closest) |
+| [0506-relative-ranks](https://github.com/shrestha2510/dsa-problems-java/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/shrestha2510/dsa-problems-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shrestha2510/dsa-problems-java/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Search
@@ -297,5 +299,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0239-sliding-window-maximum) |
+| [0506-relative-ranks](https://github.com/shrestha2510/dsa-problems-java/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/shrestha2510/dsa-problems-java/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
