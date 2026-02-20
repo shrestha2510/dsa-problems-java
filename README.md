@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/shrestha2510/dsa-problems-java/tree/master/1552-magnetic-force-between-two-balls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shrestha2510/dsa-problems-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/shrestha2510/dsa-problems-java/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/shrestha2510/dsa-problems-java/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Two Pointers
 |  |
 | ------- |
@@ -295,10 +296,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shrestha2510/dsa-problems-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/shrestha2510/dsa-problems-java/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/shrestha2510/dsa-problems-java/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/shrestha2510/dsa-problems-java/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/shrestha2510/dsa-problems-java/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
