@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shrestha2510/dsa-problems-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shrestha2510/dsa-problems-java/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/shrestha2510/dsa-problems-java/tree/master/0303-range-sum-query-immutable) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/shrestha2510/dsa-problems-java/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/shrestha2510/dsa-problems-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/shrestha2510/dsa-problems-java/tree/master/0506-relative-ranks) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0239-sliding-window-maximum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/shrestha2510/dsa-problems-java/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0506-relative-ranks](https://github.com/shrestha2510/dsa-problems-java/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/shrestha2510/dsa-problems-java/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/shrestha2510/dsa-problems-java/tree/master/2558-take-gifts-from-the-richest-pile) |
