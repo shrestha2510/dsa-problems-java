@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shrestha2510/dsa-problems-java/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shrestha2510/dsa-problems-java/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shrestha2510/dsa-problems-java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shrestha2510/dsa-problems-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/shrestha2510/dsa-problems-java/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0227-basic-calculator-ii) |
@@ -306,4 +307,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/shrestha2510/dsa-problems-java/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/shrestha2510/dsa-problems-java/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/shrestha2510/dsa-problems-java/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shrestha2510/dsa-problems-java/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shrestha2510/dsa-problems-java/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shrestha2510/dsa-problems-java/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
