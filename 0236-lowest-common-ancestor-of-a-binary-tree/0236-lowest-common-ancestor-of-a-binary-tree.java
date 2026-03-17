@@ -5,30 +5,31 @@ class Solution {
 
         getpath(root, p, path1);
         getpath(root, q, path2);
-        int i=0;
-        for(; i<path1.size()&&i<path2.size();i++){
-            if(path1.get(i)!= path2.get(i)){
+
+        int i = 0;
+
+        for(; i < path1.size() && i < path2.size(); i++){
+            if(path1.get(i) != path2.get(i)){
                 break;
             }
         }
-        TreeNode lca = path1.get(i-1);
-        return lca;
-        
+
+        return path1.get(i - 1);
     }
-    public static boolean getpath(TreeNode root, TreeNode n, ArrayList<TreeNode> path){
-        if(root==null){
-            return false;
-        }
+
+    public boolean getpath(TreeNode root, TreeNode target, ArrayList<TreeNode> path){
+        if(root == null) return false;
+
         path.add(root);
-        if(root==n){
+
+        if(root == target) return true;
+
+        if(getpath(root.left, target, path) || 
+           getpath(root.right, target, path)){
             return true;
         }
-        boolean fl = getpath(root.left, n, path);
-        boolean fr = getpath(root.right, n, path);
-        if(fl || fr){
-            return true;
-        }
-        path.remove(path.size()-1);
+
+        path.remove(path.size() - 1);
         return false;
     }
 }
