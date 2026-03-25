@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/shrestha2510/dsa-problems-java/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/shrestha2510/dsa-problems-java/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/shrestha2510/dsa-problems-java/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/shrestha2510/dsa-problems-java/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/shrestha2510/dsa-problems-java/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/shrestha2510/dsa-problems-java/tree/master/0792-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/shrestha2510/dsa-problems-java/tree/master/0904-fruit-into-baskets) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/shrestha2510/dsa-problems-java/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/shrestha2510/dsa-problems-java/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/shrestha2510/dsa-problems-java/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrestha2510/dsa-problems-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shrestha2510/dsa-problems-java/tree/master/1248-count-number-of-nice-subarrays) |
