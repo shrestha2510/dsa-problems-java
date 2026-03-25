@@ -1,15 +1,20 @@
 class Solution {
     public int firstUniqChar(String s) {
-        int n = s.length();
-        HashMap<Character, Integer> map = new HashMap<>();
-        for(char c : s.toCharArray()){
-            map.put(c, map.getOrDefault(c,0)+1);
+
+        int[] freq = new int[26];
+
+        // Step 1: count frequency
+        for(char ch : s.toCharArray()){
+            freq[ch - 'a']++;
         }
-        for(int i=0;i<s.length(); i++){
-            if(map.get(s.charAt(i)) == 1){
+
+        // Step 2: find first unique
+        for(int i = 0; i < s.length(); i++){
+            if(freq[s.charAt(i) - 'a'] == 1){
                 return i;
             }
         }
+
         return -1;
     }
 }
