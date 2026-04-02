@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shrestha2510/dsa-problems-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shrestha2510/dsa-problems-java/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shrestha2510/dsa-problems-java/tree/master/0977-squares-of-a-sorted-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shrestha2510/dsa-problems-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/shrestha2510/dsa-problems-java/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/shrestha2510/dsa-problems-java/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrestha2510/dsa-problems-java/tree/master/0424-longest-repeating-character-replacement) |
