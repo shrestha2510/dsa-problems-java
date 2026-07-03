@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shrestha2510/dsa-problems-java/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/shrestha2510/dsa-problems-java/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrestha2510/dsa-problems-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrestha2510/dsa-problems-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0234-palindrome-linked-list) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shrestha2510/dsa-problems-java/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/shrestha2510/dsa-problems-java/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shrestha2510/dsa-problems-java/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/shrestha2510/dsa-problems-java/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0227-basic-calculator-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shrestha2510/dsa-problems-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
