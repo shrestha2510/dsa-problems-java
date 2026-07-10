@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shrestha2510/dsa-problems-java/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/shrestha2510/dsa-problems-java/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrestha2510/dsa-problems-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrestha2510/dsa-problems-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shrestha2510/dsa-problems-java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shrestha2510/dsa-problems-java/tree/master/0016-3sum-closest) |
+| [0148-sort-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0148-sort-list) |
 | [0506-relative-ranks](https://github.com/shrestha2510/dsa-problems-java/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/shrestha2510/dsa-problems-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shrestha2510/dsa-problems-java/tree/master/1552-magnetic-force-between-two-balls) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shrestha2510/dsa-problems-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0148-sort-list) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shrestha2510/dsa-problems-java/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrestha2510/dsa-problems-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/shrestha2510/dsa-problems-java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0206-reverse-linked-list) |
@@ -410,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0387-first-unique-character-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shrestha2510/dsa-problems-java/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
