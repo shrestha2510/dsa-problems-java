@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shrestha2510/dsa-problems-java/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shrestha2510/dsa-problems-java/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/shrestha2510/dsa-problems-java/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/shrestha2510/dsa-problems-java/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shrestha2510/dsa-problems-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/shrestha2510/dsa-problems-java/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/shrestha2510/dsa-problems-java/tree/master/0227-basic-calculator-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shrestha2510/dsa-problems-java/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/shrestha2510/dsa-problems-java/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shrestha2510/dsa-problems-java/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shrestha2510/dsa-problems-java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shrestha2510/dsa-problems-java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shrestha2510/dsa-problems-java/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/shrestha2510/dsa-problems-java/tree/master/0224-basic-calculator) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shrestha2510/dsa-problems-java/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/shrestha2510/dsa-problems-java/tree/master/0287-find-the-duplicate-number) |
 | [1310-xor-queries-of-a-subarray](https://github.com/shrestha2510/dsa-problems-java/tree/master/1310-xor-queries-of-a-subarray) |
 ## Design
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shrestha2510/dsa-problems-java/tree/master/0067-add-binary) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shrestha2510/dsa-problems-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/shrestha2510/dsa-problems-java/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Heap (Priority Queue)
